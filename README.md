@@ -1,8 +1,5 @@
 # Hi there, I'm Debjyoti Ganguly 👋  
 ![Profile Views](https://komarev.com/ghpvc/?username=debjganguly&label=Profile%20Views&color=blue&style=flat)
----
-<h1>My GitHub Summarised 😊🔥</h1>
-https://github.com/debjganguly/GITHUB-PORTFOLIO
 
 ---
 
