@@ -4,11 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1020,50:312E81,100:6D28D9&text=Debjyoti%20Ganguly&fontSize=48&fontColor=E0E7FF&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Explorer&descSize=18&descAlignY=55&descColor=A5B4FC" width="100%" alt="Debjyoti Ganguly - AI/ML Explorer"/>
 </div>
 
-<!-- =============== PROFILE VIEWS =============== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pisuke143&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile Views"/>
-</p>
-
 <!-- =============== ANIMATED BANNER =============== -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" alt="Animated Banner"/>
