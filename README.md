@@ -1,7 +1,7 @@
 
 <!-- =============== HEADER =============== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Debjyoti%20Ganguly&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Explorer&descSize=18&descAlignY=55&textBg=false" width="100%" alt="Debjyoti Ganguly - AI/ML Explorer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1020,50:312E81,100:6D28D9&text=Debjyoti%20Ganguly&fontSize=48&fontColor=E0E7FF&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Explorer&descSize=18&descAlignY=55&descColor=A5B4FC" width="100%" alt="Debjyoti Ganguly - AI/ML Explorer"/>
 </div>
 
 <!-- =============== PROFILE VIEWS =============== -->
